@@ -1,0 +1,31 @@
+H1 {
+    text-align: center;
+    font-stretch: expanded;
+    color: darkslategray;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+H2{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+
+.centre {
+   text-align: center; 
+}
+
+.row > div > img { width: 100%; display: block; }
+
+a, .button, .text-white
+{
+    color:black;
+    font-size: xx-large;
+}
+
+.cc {
+    text-shadow: 2px 2px 3px #001111, 0 0 10px #000000,  2px 2px 3px #001111, 0 0 4px #000000;
+        color: peachpuff;
+}
